@@ -1,0 +1,9 @@
+.example-form-fields {
+  display: flex;
+  align-items: flex-start;
+}
+
+
+.example-form-detail {
+  width: 120px;
+}
